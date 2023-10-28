@@ -22,6 +22,8 @@
 - 🚀 My portfolio: Launching Soon!
 - 📝 Curriculum Vitae: In Progress.
 
+<br/>
+
 ## ✉️ Contact Me
 
 Feel free to get in touch if you have any questions or would like to collaborate!
@@ -29,7 +31,6 @@ Feel free to get in touch if you have any questions or would like to collaborate
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelschopfer/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6740@holbertonstudents.com)
 
-<br/>
 <br/>
 <br/>
 
