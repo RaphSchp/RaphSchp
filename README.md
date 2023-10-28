@@ -20,7 +20,7 @@
 - 🔭 Currently an Holberton student.
 - 🌄 Climbing enthusiast.
 - 🚀 My portfolio: Launching Soon!
-- 📝 Curriculum Vitae: In Progress.
+- 📝 Curriculum Vitae: [Here.](https://drive.google.com/file/d/1sr7FB8mtiwV16eBi_2qs5o_lT-2ywn1S/view?usp=sharing)
 
 <br/>
 
