@@ -1,9 +1,8 @@
-### Hi there 👋
+<div align="center">
+    <h1>![TERMINAL](RaphSchp/images/terminal (1).gif)</h1>
+</div>
 
 <!--
-**RaphSchp/RaphSchp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
