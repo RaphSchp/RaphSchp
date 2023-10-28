@@ -1,6 +1,6 @@
 <div align="center">
 
-![TERMINAL](RaphSchp/images/terminal (1).gif) 
+![TERMINAL](https://github.com/RaphSchp/RaphSchp/blob/main/images/terminal%20(1).gif?raw=true) 
 
 </div>
 
