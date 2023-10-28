@@ -1,5 +1,7 @@
 <div align="center">
-    <h1>![TERMINAL](RaphSchp/images/terminal (1).gif)</h1>
+
+![TERMINAL](RaphSchp/images/terminal (1).gif) 
+
 </div>
 
 <!--
