@@ -14,7 +14,7 @@
 
 ## 📄 About Me
 
-- 🍁 I'm looking for a front-end development job in Montreal.
+- 👨‍💻 I'm looking for a front-end or/and full-stack development job !
 - 🌐 I'm from Evian-les-bains, France.
 - 🌱 Learning front-end and back-end technologies.
 - 🔭 Currently an Holberton student.
